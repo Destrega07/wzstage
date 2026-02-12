@@ -1,0 +1,244 @@
+{
+  "moments": [
+    {
+      "id": "01",
+      "shortName": "东洋磨砺",
+      "description": "在雷州东洋尾的乡村童年，练就坚韧品质。",
+      "guidePersona": "lizhi",
+      "guideText": "喵~ 听团子说，这块土地里埋着你最初的勇敢种子。",
+      "imageSrc": "/moments/moment_01.png"
+    },
+    {
+      "id": "02",
+      "shortName": "非遗萌芽",
+      "description": "第一次随母亲看雷剧，种下保护非遗的种子。",
+      "guidePersona": "songzhi",
+      "guideText": "那个目不转睛的小女孩，绝对没猜到自己以后会变脸。",
+      "imageSrc": "/moments/moment_02.png"
+    },
+    {
+      "id": "03",
+      "shortName": "学海逆袭",
+      "description": "转校后苦练普通话，最终凭努力成为班长。",
+      "guidePersona": "lizhi",
+      "guideText": "这股不服输的劲头，我现在隔着屏幕都能感受到喵。",
+      "imageSrc": "/moments/moment_03.png"
+    },
+    {
+      "id": "04",
+      "shortName": "公交提案",
+      "description": "为同学争取公交线路，展现非凡的领导力。",
+      "guidePersona": "songzhi",
+      "guideText": "啧啧，小小年纪就知道整合资源，不愧是未来的策展人。",
+      "imageSrc": "/moments/moment_04.png"
+    },
+    {
+      "id": "05",
+      "shortName": "肝胆相照",
+      "description": "中学至大学期间，结识了一帮肝胆相照的挚友。",
+      "guidePersona": "lizhi",
+      "guideText": "这种像线一样牵在一起的友情，最温暖了。",
+      "imageSrc": "/moments/moment_05.png"
+    },
+    {
+      "id": "06",
+      "shortName": "勤工健身",
+      "description": "在健身房勤工俭学，练就了健美的身材。",
+      "guidePersona": "songzhi",
+      "guideText": "听说那时候的肌肉线条很美？我也想在丸子背上踩奶。",
+      "imageSrc": "/moments/moment_06.png"
+    },
+    {
+      "id": "07",
+      "shortName": "校园商才",
+      "description": "大学卖洗衣机和学霸笔记，实现财务自强。",
+      "guidePersona": "songzhi",
+      "guideText": "卖洗衣机供自己读大学？丸子，你以前也太强悍了喵！",
+      "imageSrc": "/moments/moment_07.png"
+    },
+    {
+      "id": "08",
+      "shortName": "大山微光",
+      "description": "假期奔赴云南支教，守护留守儿童成长。",
+      "guidePersona": "lizhi",
+      "guideText": "你的眼睛里，一定闪烁过大山孩子最纯净的星光。",
+      "imageSrc": "/moments/moment_08.png"
+    },
+    {
+      "id": "09",
+      "shortName": "长姐担当",
+      "description": "努力工作供弟妹读书进修，尽显长姐风范。",
+      "guidePersona": "lizhi",
+      "guideText": "辛苦啦，丸子。你不仅是守护者，更是他们的光。",
+      "imageSrc": "/moments/moment_09.png"
+    },
+    {
+      "id": "10",
+      "shortName": "职场菁英",
+      "description": "嘉士伯最年轻经理，开创跨行业合作模式。",
+      "guidePersona": "songzhi",
+      "guideText": "这种职场气场，即便变成了保险精英也一点没减喵。",
+      "imageSrc": "/moments/moment_10.png"
+    },
+    {
+      "id": "11",
+      "shortName": "破圈转型",
+      "description": "毅然决定转战保险行业，开启事业新篇章。",
+      "guidePersona": "lizhi",
+      "guideText": "那个焦虑的夜晚，最后开出了最坚定的花。",
+      "imageSrc": "/moments/moment_11.png"
+    },
+    {
+      "id": "12",
+      "shortName": "银辉加冕",
+      "description": "拿下大额保单，正式成为友邦银辉代理人。",
+      "guidePersona": "songzhi",
+      "guideText": "嘿，看这一脸从容。专业，就是丸子的金面具！",
+      "imageSrc": "/moments/moment_12.png"
+    },
+    {
+      "id": "13",
+      "shortName": "笔耕不辍",
+      "description": "坚持运营个人公众号与视频号，普及保险知识。",
+      "guidePersona": "lizhi",
+      "guideText": "指尖跳动的文字，都是你对客户深情的守护。",
+      "imageSrc": "/moments/moment_13.png"
+    },
+    {
+      "id": "14",
+      "shortName": "繁花初现",
+      "description": "举办首场“E路生花”客户答谢会，获高度认可。",
+      "guidePersona": "songzhi",
+      "guideText": "又是主持又是答谢，丸子真的长了八只猫爪子吗？",
+      "imageSrc": "/moments/moment_14.png"
+    },
+    {
+      "id": "15",
+      "shortName": "幕后匠心",
+      "description": "在家苦练猴戏，每一个动作都浸透了汗水。",
+      "guidePersona": "lizhi",
+      "guideText": "看着你在客厅上蹿下跳，我都不忍心去扑你了喵。",
+      "imageSrc": "/moments/moment_15.png"
+    },
+    {
+      "id": "16",
+      "shortName": "惊艳首秀",
+      "description": "广州非遗年会变脸首秀，赢得满堂彩。",
+      "guidePersona": "songzhi",
+      "guideText": "那一刻，你就是整个舞台最靓的仔，没有之一。",
+      "imageSrc": "/moments/moment_16.png"
+    },
+    {
+      "id": "17",
+      "shortName": "传承之火",
+      "description": "加入广汉会策划非遗活动，主持礼乐大会。",
+      "guidePersona": "lizhi",
+      "guideText": "穿上汉服的你，美得像从壁画里走出来的一样。",
+      "imageSrc": "/moments/moment_17.png"
+    },
+    {
+      "id": "18",
+      "shortName": "薪竹筑梦",
+      "description": "成立薪竹文化公司，开启木偶展传播事业。",
+      "guidePersona": "songzhi",
+      "guideText": "自己的事业就像自家的猫，得一点点宠大。",
+      "imageSrc": "/moments/moment_18.png"
+    },
+    {
+      "id": "19",
+      "shortName": "结发为盟",
+      "description": "与团子步入婚姻殿堂，开启执手人生。",
+      "guidePersona": "lizhi",
+      "guideText": "这个男人虽然打呼噜，但看你的眼神好温柔喵。",
+      "imageSrc": "/moments/moment_19.png"
+    },
+    {
+      "id": "20",
+      "shortName": "幸福筑巢",
+      "description": "共同完成“纯水岸别墅”的装修与布置。",
+      "guidePersona": "songzhi",
+      "guideText": "我最喜欢的那个飘窗，就是这时候搭出来的吧？",
+      "imageSrc": "/moments/moment_20.png"
+    },
+    {
+      "id": "21",
+      "shortName": "遇见栗子",
+      "description": "在街头救助病危的栗子，开启有猫人生。",
+      "guidePersona": "lizhi",
+      "guideText": "喵呜~ 谢谢你捡到了我，从此我的世界亮了。",
+      "imageSrc": "/moments/moment_21.png"
+    },
+    {
+      "id": "22",
+      "shortName": "接纳松子",
+      "description": "领养松子，让栗子有伴，让家更热闹。",
+      "guidePersona": "songzhi",
+      "guideText": "虽然我经常捣蛋，但我也是超级爱丸子的喵！",
+      "imageSrc": "/moments/moment_22.png"
+    },
+    {
+      "id": "23",
+      "shortName": "趣谈呼噜",
+      "description": "在每一个他秒睡你失眠的夜晚，学会了和解。",
+      "guidePersona": "lizhi",
+      "guideText": "呼噜大王的演奏，其实也是一种特殊的白噪音吧。",
+      "imageSrc": "/moments/moment_23.png"
+    },
+    {
+      "id": "24",
+      "shortName": "敦煌溯源",
+      "description": "游历敦煌，感受千年文化沉淀的震撼。",
+      "guidePersona": "songzhi",
+      "guideText": "丸子盯着壁画看了好久，是在找变脸的灵感吗？",
+      "imageSrc": "/moments/moment_24.png"
+    },
+    {
+      "id": "25",
+      "shortName": "华山观日",
+      "description": "携手夜爬华山，看天亮云海托起金光的瞬间。",
+      "guidePersona": "lizhi",
+      "guideText": "团子的怀抱，就是那时候最暖的充电宝喵。",
+      "imageSrc": "/moments/moment_25.png"
+    },
+    {
+      "id": "26",
+      "shortName": "破浪之泳",
+      "description": "克服心理障碍学会游泳，拓展生命的边界。",
+      "guidePersona": "songzhi",
+      "guideText": "连水都不怕了，这世界上还有能难倒你的事吗？",
+      "imageSrc": "/moments/moment_26.png"
+    },
+    {
+      "id": "27",
+      "shortName": "巾帼驭风",
+      "description": "学会开车且驾风果敢，机动力大幅提升。",
+      "guidePersona": "lizhi",
+      "guideText": "掌握方向盘的你，飒爽得像变脸时的最后一张底牌。",
+      "imageSrc": "/moments/moment_27.png"
+    },
+    {
+      "id": "28",
+      "shortName": "创见未来",
+      "description": "参加混沌创业大赛，结识志同道合的伙伴。",
+      "guidePersona": "songzhi",
+      "guideText": "跨界王、整合大师、未来丸子，名头多到数不清！",
+      "imageSrc": "/moments/moment_28.png"
+    },
+    {
+      "id": "29",
+      "shortName": "智启新篇",
+      "description": "成立AI工作室，获取AI时代的入场券。",
+      "guidePersona": "lizhi",
+      "guideText": "现在我也是“数字猫咪”了，这都要感谢你的远见。",
+      "imageSrc": "/moments/moment_29.png"
+    },
+    {
+      "id": "30",
+      "shortName": "三十珍珠",
+      "description": "三十而立的此刻，开启这份充满爱意的礼物。",
+      "guidePersona": "songzhi",
+      "guideText": "嘿！最后一张面具揭开前，记得闪烁 3 次眼睛喵！",
+      "imageSrc": "/moments/moment_30.png"
+    }
+  ]
+}

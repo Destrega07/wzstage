@@ -1,26 +1,61 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --dh-paper: #f6e9d7;
+  --dh-ink: #1f140f;
+  --dh-sand: #e6cfad;
+  --dh-red: #b44b3a;
+  --dh-azure: #2c5f8a;
+  --dh-jade: #2f7b63;
+  --dh-gold: #d3a24a;
+  --dh-purple: #6a4b7b;
+  --dh-card: rgba(255, 255, 255, 0.55);
+  --dh-border: rgba(31, 20, 15, 0.12);
+  --background: var(--dh-paper);
+  --foreground: var(--dh-ink);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-dh-paper: var(--dh-paper);
+  --color-dh-ink: var(--dh-ink);
+  --color-dh-sand: var(--dh-sand);
+  --color-dh-red: var(--dh-red);
+  --color-dh-azure: var(--dh-azure);
+  --color-dh-jade: var(--dh-jade);
+  --color-dh-gold: var(--dh-gold);
+  --color-dh-purple: var(--dh-purple);
+  --color-dh-card: var(--dh-card);
+  --color-dh-border: var(--dh-border);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --dh-paper: #100b08;
+    --dh-ink: #f2e8dd;
+    --dh-sand: rgba(246, 233, 215, 0.16);
+    --dh-card: rgba(31, 20, 15, 0.55);
+    --dh-border: rgba(242, 232, 221, 0.14);
+    --background: var(--dh-paper);
+    --foreground: var(--dh-ink);
   }
+}
+
+html,
+body {
+  height: 100%;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), system-ui, -apple-system, Segoe UI, Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+  padding-top: env(safe-area-inset-top);
+  padding-right: env(safe-area-inset-right);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
 }
