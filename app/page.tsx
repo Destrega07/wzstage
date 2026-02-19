@@ -497,7 +497,7 @@ const tuanziLongLetter = `亲爱的丸子：
 
 function TimeArtExhibition() {
   const moments = lifeMoments.moments as LifeMoment[];
-  const visibleMoments = moments.filter((m) => Number(m.id) <= 15);
+  const visibleMoments = moments;
   const [eggOpen, setEggOpen] = useState(false);
   const pressTimerRef = useRef<number | null>(null);
   const clickResetTimerRef = useRef<number | null>(null);
