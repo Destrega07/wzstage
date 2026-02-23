@@ -281,6 +281,7 @@ export default function ChatInterface() {
               src={assistant.avatarSrc}
               alt={assistant.name}
               fill
+              loading="lazy"
               sizes="32px"
               className="object-cover"
             />
@@ -329,6 +330,7 @@ export default function ChatInterface() {
                   src="/mask-toggle.png"
                   alt=""
                   fill
+                  loading="lazy"
                   sizes="20px"
                   className="object-contain"
                 />
@@ -355,6 +357,7 @@ export default function ChatInterface() {
                     src={assistant.avatarSrc}
                     alt={assistant.name}
                     fill
+                    loading="lazy"
                     sizes="36px"
                     className="object-cover"
                   />
@@ -385,6 +388,7 @@ export default function ChatInterface() {
                         src={a.avatar}
                         alt={a.name}
                         fill
+                        loading="lazy"
                         sizes="36px"
                         className="object-cover"
                       />
@@ -412,6 +416,7 @@ export default function ChatInterface() {
                       src="/maruko-avatar.png"
                       alt="丸子"
                       fill
+                      loading="lazy"
                       sizes="36px"
                       className="object-cover"
                     />
@@ -437,6 +442,7 @@ export default function ChatInterface() {
                     }
                     alt={assistantDraftPersona === "lizhi" ? "栗子" : "松子"}
                     fill
+                    loading="lazy"
                     sizes="36px"
                     className="object-cover"
                   />

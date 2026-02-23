@@ -186,6 +186,7 @@ const SpaceTimeLetter = memo(function SpaceTimeLetter({
               src="/future-maruko.png"
               alt="未来丸子"
               fill
+              loading="lazy"
               sizes="40px"
               className="object-cover"
             />
@@ -289,6 +290,7 @@ const SpaceTimeComposer = memo(function SpaceTimeComposer({
               src="/maruko-avatar.png"
               alt="丸子"
               fill
+              loading="lazy"
               sizes="36px"
               className="object-cover"
             />
@@ -1836,6 +1838,7 @@ function LifeTree({
                   src="/Tuanzi.png"
                   alt="团子"
                   fill
+                  loading="lazy"
                   sizes="60px"
                   className="object-cover"
                 />
@@ -1862,6 +1865,7 @@ function LifeTree({
                   src="/Wanzi.png"
                   alt="丸子"
                   fill
+                  loading="lazy"
                   sizes="60px"
                   className="object-cover"
                 />
@@ -2254,6 +2258,7 @@ function EchoChamber() {
                   src="/Tuanzi.png"
                   alt=""
                   fill
+                  loading="lazy"
                   sizes="28px"
                   className="object-cover"
                 />
@@ -2274,6 +2279,7 @@ function EchoChamber() {
                   src="/Wanzi.png"
                   alt=""
                   fill
+                  loading="lazy"
                   sizes="28px"
                   className="object-cover"
                 />
@@ -3393,6 +3399,7 @@ function TimeArtExhibition() {
                     src={m.imageSrc}
                     alt={`${m.id} ${m.shortName}`}
                     fill
+                    loading="lazy"
                     sizes="(max-width: 768px) 92vw, 560px"
                     className="object-cover"
                   />
@@ -3421,6 +3428,7 @@ function TimeArtExhibition() {
                     src={cat.avatar}
                     alt={cat.name}
                     fill
+                    loading="lazy"
                     sizes="36px"
                     className="object-cover"
                   />
@@ -3902,6 +3910,7 @@ export default function Home() {
                                 src="/cat-steps.png"
                                 alt=""
                                 fill
+                                loading="lazy"
                                 sizes="140px"
                                 className="object-contain"
                               />

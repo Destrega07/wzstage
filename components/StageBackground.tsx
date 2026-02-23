@@ -48,7 +48,7 @@ export default function StageBackground({
               src={backgroundSrc}
               alt=""
               fill
-              priority
+              loading="lazy"
               sizes="100vw"
               className="object-cover"
             />
