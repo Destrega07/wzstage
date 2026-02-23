@@ -3553,7 +3553,7 @@ export default function Home() {
   const sourceRef = useRef<AudioBufferSourceNode | null>(null);
   const startingRef = useRef(false);
 
-  const bgmUrl = useMemo(() => encodeURI("/X-Ray Dog - Time Will Tell.mp3"), []);
+  const bgmUrl = useMemo(() => encodeURI("/bgm.mp3"), []);
   const targetVolume = 0.22;
 
   const decodeAudioCompat = useCallback((ctx: AudioContext, data: ArrayBuffer) => {
