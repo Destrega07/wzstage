@@ -3793,7 +3793,10 @@ export default function Home() {
                     <h1 className="truncate text-2xl font-semibold tracking-tight text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
                       丸子的浮生百宝舞台
                     </h1>
-                    {tab !== "curation" && tab !== "shop" && tab !== "curtain" ? (
+                    {tab !== "curation" &&
+                    tab !== "shop" &&
+                    tab !== "curtain" &&
+                    tab !== "lab" ? (
                       <p className="text-sm leading-6 text-[color:color-mix(in_oklab,var(--color-dh-ink),transparent_35%)]">
                         {tabLabel} · 敦煌五彩 · 盲盒治愈感
                       </p>
@@ -3857,7 +3860,10 @@ export default function Home() {
                       </motion.span>
                     </button>
 
-                    {tab !== "curation" && tab !== "shop" && tab !== "curtain" ? (
+                    {tab !== "curation" &&
+                    tab !== "shop" &&
+                    tab !== "curtain" &&
+                    tab !== "lab" ? (
                       <div className="text-right">
                         <div className="text-xs font-medium text-[color:color-mix(in_oklab,var(--color-dh-ink),transparent_40%)]">
                           {seedWords.personas.lifeNicknames.wife} · 30 岁
