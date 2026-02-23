@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0-draft",
+  "generated_at": "2026-02-22",
+  "emotion_scale": {
+    "score_range": [
+      -5,
+      5
+    ],
+    "meaning": {
+      "-5": "极度负面、强烈痛苦/恐惧/崩塌感",
+      "0": "中性/叙述性",
+      "5": "极度正面、强烈幸福/笃定/被祝福感"
+    },
+    "rule_note": "情绪值为解释性量化，但每条都附带原文证据（quote_lines）。"
+  },
+  "milestones": [
+    {
+      "milestone_id": "rel-2023-09-lagou",
+      "date": "2023-09",
+      "title": "“拉钩”式的相守决心（不再逃避）",
+      "type": "关系承诺",
+      "people": [
+        "团子",
+        "丸子"
+      ],
+      "emotion": {
+        "score": 4,
+        "label": "坚定/释怀"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202309团子丸子_原文.txt",
+            "line_start": 50,
+            "line_end": 51
+          },
+          "quote_lines": [
+            "……我要这个叫做一条路跟团子走到底，不应该去动摇，不应该去顾及那么多……"
+          ]
+        },
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202309团子丸子_原文.txt",
+            "line_start": 17,
+            "line_end": 18
+          },
+          "quote_lines": [
+            "……后来丸子从伙伴的身上看到了所谓的完美的爱情是可以由自己定义的……后来丸子和团子还这个拉了勾勾……这样我们以后永远都在一起，不会再逃避了……"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202309-0002",
+        "cmv2-202309-0001"
+      ]
+    },
+    {
+      "milestone_id": "rel-2024-10-2am-join-aia",
+      "date": "2024-10",
+      "title": "丸子转型：离开职场，加入AIA，开启保险事业",
+      "type": "事业转折点",
+      "people": [
+        "丸子"
+      ],
+      "emotion": {
+        "score": 2,
+        "label": "新的开始"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+            "line_start": 229,
+            "line_end": 230
+          },
+          "quote_lines": [
+            "虽然还有点担心，也知道有很多不确定，但仍勇敢踏出重要一步，开创属于自己的事业"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202512-0003"
+      ]
+    },
+    {
+      "milestone_id": "rel-2024-11-proposal-refused",
+      "date": "2024-11",
+      "title": "求婚触发：团子求婚、丸子以“缺诚意/无准备”拒绝",
+      "type": "关系冲突/边界",
+      "people": [
+        "团子",
+        "丸子"
+      ],
+      "emotion": {
+        "score": -2,
+        "label": "失落/不安全感"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202411团子丸子_原文.txt",
+            "line_start": 77,
+            "line_end": 78
+          },
+          "quote_lines": [
+            "……团子生日的时候向。丸子求婚……成为丸子一辈子的港湾。"
+          ]
+        },
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202411团子丸子_原文.txt",
+            "line_start": 149,
+            "line_end": 150
+          },
+          "quote_lines": [
+            "……我觉得你很没有这个诚意喽？因为你选择你生日的时候，你根本就没有去做对应的准备……"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202411-0001",
+        "cmv2-202411-0003"
+      ]
+    },
+    {
+      "milestone_id": "rel-2024-12-2am-graduation",
+      "date": "2024-12",
+      "title": "团子“毕业”：丸子请团子吃星龙吟，离开职场开始创业",
+      "type": "事业转折点",
+      "people": [
+        "团子"
+      ],
+      "emotion": {
+        "score": 2,
+        "label": "新的开始"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+            "line_start": 229,
+            "line_end": 230
+          },
+          "quote_lines": [
+            "没想到人生第一次收花是在职场“毕业”的时候，有丸子陪着，突然“毕业”也不害怕了"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202512-0003"
+      ]
+    },
+    {
+      "milestone_id": "rel-2025-01-move-in-home-setup",
+      "date": "2025-01",
+      "title": "搬进“幸福的家”并共同 set up（小家庭生活基座）",
+      "type": "居住/家庭建设",
+      "people": [
+        "团子",
+        "丸子",
+        "栗子"
+      ],
+      "emotion": {
+        "score": 5,
+        "label": "甜滋滋/心流/安定"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202505团子丸子_原文.txt",
+            "line_start": 215,
+            "line_end": 219
+          },
+          "quote_lines": [
+            "……我们终于搬进了我们幸福的家…… set up 好了……",
+            "……心里甜滋滋的那种共鸣……",
+            "……会想象着把它 set up 好了之后，就会住的很舒服。"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202505-0004"
+      ]
+    },
+    {
+      "milestone_id": "rel-2025-04-plan-0516-marriage",
+      "date": "2025-04",
+      "title": "丸子情到浓时，主动“向团子提婚”（团子求婚仪式后补）",
+      "type": "婚姻推进",
+      "people": [
+        "团子",
+        "丸子"
+      ],
+      "emotion": {
+        "score": 4,
+        "label": "期待/被给予机会"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202505团子丸子_原文.txt",
+            "line_start": 9,
+            "line_end": 10
+          },
+          "quote_lines": [
+            "……我们已经约好了在5月 16 号去黄埔婚姻登记所登记结婚……丸子……主动提出了要结婚……"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202505-0001"
+      ]
+    },
+    {
+      "milestone_id": "rel-2025-05-married-and-collective-wedding",
+      "date": "2025-05",
+      "title": "结婚领证 + 参加黄埔集体婚礼（仪式感与社会祝福）",
+      "type": "婚姻里程碑",
+      "people": [
+        "团子",
+        "丸子"
+      ],
+      "emotion": {
+        "score": 5,
+        "label": "仪式感满满/修成正果"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+            "line_start": 3,
+            "line_end": 4
+          },
+          "quote_lines": [
+            "……我们结婚领证啦……参加了黄埔区民政局的集体婚礼……仪式感满满……爱情终于修成正果。"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202506-0001"
+      ]
+    },
+    {
+      "milestone_id": "rel-2025-05-home-inauguration-516-balloons",
+      "date": "2025-05",
+      "title": "“新家起点”：516 气球作为家的起点",
+      "type": "居住/家庭象征",
+      "people": [
+        "团子",
+        "丸子"
+      ],
+      "emotion": {
+        "score": 4,
+        "label": "安定/归家/起点"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+            "line_start": 6,
+            "line_end": 7
+          },
+          "quote_lines": [
+            "……布置了我们结婚了的大气球和 516 的这个气球……这次的入伙是一个叫做家的起点。"
+          ]
+        }
+      ],
+      "related_memory_ids": [
+        "cmv2-202506-0002"
+      ]
+    },
+    {
+      "milestone_id": "rel-2026-02-first-show",
+      "date": "2026-02",
+      "title": "非遗首演：丸子用1年练成川剧变脸，并在广州非遗年度晚宴中首演",
+      "type": "事业成就",
+      "people": [
+        "丸子"
+      ],
+      "emotion": {
+        "score": 4,
+        "label": "非遗/成长"
+      },
+      "evidence": [
+        {
+          "source_ref": {
+            "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+            "line_start": 96,
+            "line_end": 100
+          },
+          "quote_lines": [
+            "……第一次表演就获得满堂掌声还是非常开心的……",
+            "……丸子真有台风，每次变脸都那么丝滑，完全看不出是第一次表演……"
+          ]
+        }
+      ],
+      "related_memory_ids": []
+    }
+  ]
+}

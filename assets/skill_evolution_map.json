@@ -1,0 +1,363 @@
+{
+  "schema_version": "1.0-draft",
+  "generated_at": "2026-02-22",
+  "scope_note": "仅基于现有 8 份《探索流》原文（2023-09 ~ 2025-12）可直接引用的语句整理；不出现语料中未明确支持的头衔或战绩。",
+  "people": {
+    "丸子": {
+      "stage_ladder": [
+        {
+          "stage_id": "maru-2023-09-tangchen",
+          "time": {
+            "start": "2023-09",
+            "end": "2023-10",
+            "confidence": "high"
+          },
+          "role_label": "职场转段：进入汤臣倍健（健康理念/新环境适应）",
+          "skills": [
+            {
+              "name": "职场适应与压力应对",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202309团子丸子_原文.txt",
+                    "line_start": 33,
+                    "line_end": 37
+                  },
+                  "quote_lines": [
+                    "在事业上面的话，在事业上面的话就是丸子是第一个月去了新的公司，汤臣倍健……看到丸子在唐臣倍健里面其实是比之前要更加的充实的，然后的话也做着自己想做的东西，同时也带了健更多健康的理念回来……"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "maru-2024-07-2024-11-cultural-ipu",
+          "time": {
+            "start": "2024-07",
+            "end": "2024-11",
+            "confidence": "medium"
+          },
+          "role_label": "文创/非遗实践者：从想法到落地（策展/流动展/品牌物料）",
+          "skills": [
+            {
+              "name": "项目落地与策展执行",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202407团子丸子_原文.txt",
+                    "line_start": 171,
+                    "line_end": 176
+                  },
+                  "quote_lines": [
+                    "今年算是有比较大的一个突破，就是在这个非遗推广上，然后有了一个明确的……发展的路径……想到这个流动展的方式就是做起来……把他所有的事情，包括他的物料策展，然后展地点、什么东西全部都搞下来，然后将它落地的那一刻，其实还是很有成就感的。"
+                  ]
+                },
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202410团子丸子_原文.txt",
+                    "line_start": 186,
+                    "line_end": 187
+                  },
+                  "quote_lines": [
+                    "……就好像丸子对自己的事情有要求，就是你好像编辑那个。木偶的印章一定要这个做好啊。"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "自我决策与内省",
+              "evidence": [
+                {
+                  "memory_ref_ids": [
+                    "cmv2-202410-0003"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "maru-2025-05-2025-12-insurance-longterm",
+          "time": {
+            "start": "2025-05",
+            "end": "2025-12",
+            "confidence": "high"
+          },
+          "role_label": "保险从业者：加入团队、开单周期、输出与长期化",
+          "skills": [
+            {
+              "name": "团队环境选择与自驱执行",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202505团子丸子_原文.txt",
+                    "line_start": 194,
+                    "line_end": 199
+                  },
+                  "quote_lines": [
+                    "……我自己也会想到自己就是在今年的这个新的团队，就是友邦的那个团队……我觉得在这样子的团队里面，我是感觉很有这个。干劲的。"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "销售节奏与社会回应需求",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+                    "line_start": 9,
+                    "line_end": 10
+                  },
+                  "quote_lines": [
+                    "……丸子的话也在这次的旅行之前开了很多的保单……"
+                  ]
+                },
+                {
+                  "memory_ref_ids": [
+                    "cmv2-202506-0005"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "maru-2025-12-face-change",
+          "time": {
+            "start": "2025-12",
+            "end": "2025-12",
+            "confidence": "high"
+          },
+          "role_label": "表演技能学习者：变脸（与非遗脉络相接）",
+          "skills": [
+            {
+              "name": "表演技能训练（变脸）",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+                    "line_start": 3,
+                    "line_end": 5
+                  },
+                  "quote_lines": [
+                    "……这段时间丸子会更加多的去叫做探索自己的事业，同时的话也在去学习变脸……"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skill_threads": [
+        {
+          "thread_id": "maru-thread-decision-emotion",
+          "title": "情绪波动 → 反思 → 规则化边界（课题分离）",
+          "evidence": [
+            {
+              "memory_ref_ids": [
+                "cmv2-202309-0005",
+                "cmv2-202512-0003"
+              ]
+            },
+            {
+              "source_ref": {
+                "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+                "line_start": 210,
+                "line_end": 216
+              },
+              "quote_lines": [
+                "……这一两个月最大的这种有进步的地方呢。是在于相对来说在一些事情上的课题分离会做的比以前好……"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "团子": {
+      "stage_ladder": [
+        {
+          "stage_id": "tuan-2023-09-2023-10-internal-venture",
+          "time": {
+            "start": "2023-09",
+            "end": "2023-10",
+            "confidence": "medium"
+          },
+          "role_label": "企业内探索：内部创业/项目孵化思路",
+          "skills": [
+            {
+              "name": "创业方法论学习与应用",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202309团子丸子_原文.txt",
+                    "line_start": 36,
+                    "line_end": 37
+                  },
+                  "quote_lines": [
+                    "……而我自己也开始了去一个内部创业……去探索自己新的可能性的一个很好的机会……"
+                  ]
+                },
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202310团子丸子_原文.txt",
+                    "line_start": 17,
+                    "line_end": 24
+                  },
+                  "quote_lines": [
+                    "关于内部创业和内部创业项目孵化的这些想法……公司缺乏流程……团子需要把怎么做也想清楚……"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "tuan-2024-11-carlsberg-curve2",
+          "time": {
+            "start": "2024-11",
+            "end": "2024-11",
+            "confidence": "high"
+          },
+          "role_label": "快消企业内探索：在嘉士伯做“第二曲线/基础设施”",
+          "skills": [
+            {
+              "name": "组织视角：交易成本/第二曲线/流程与架构",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202410团子丸子_原文.txt",
+                    "line_start": 376,
+                    "line_end": 379
+                  },
+                  "quote_lines": [
+                    "……公司先要探索第二个曲线，它要先要降低公司内部的交易成本……我现在正在做这个infrastructure。"
+                  ]
+                },
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202411团子丸子_原文.txt",
+                    "line_start": 450,
+                    "line_end": 452
+                  },
+                  "quote_lines": [
+                    "……我觉得现在团子在嘉士伯现在有一个相对熟悉的条件，然后来去做新的事情……"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "tuan-2025-05-2025-06-ai-freelance",
+          "time": {
+            "start": "2025-05",
+            "end": "2025-06",
+            "confidence": "high"
+          },
+          "role_label": "自由职业/合伙探索：以 AI 为核心的咨询与产品化路径",
+          "skills": [
+            {
+              "name": "AI 应用落地与能力边界拓宽",
+              "evidence": [
+                {
+                  "memory_ref_ids": [
+                    "cmv2-202505-0002"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "AI 创新院学习与“专家标签”构建",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202506团子丸子_原文.txt",
+                    "line_start": 26,
+                    "line_end": 33
+                  },
+                  "quote_lines": [
+                    "……加入了混沌的那个 AI 的创新院……",
+                    "……希望……去建立自己是一个 AI 的专家和先行者这样的一个标签的。"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stage_id": "tuan-2025-12-strategy-ai-products",
+          "time": {
+            "start": "2025-12",
+            "end": "2025-12",
+            "confidence": "high"
+          },
+          "role_label": "战略咨询 + AI 产品探索：从方案到智能体、从编程到数字员工",
+          "skills": [
+            {
+              "name": "战略咨询与多行业观察视角",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+                    "line_start": 32,
+                    "line_end": 34
+                  },
+                  "quote_lines": [
+                    "……第一条就是现在的这个战略咨询的事业线能够帮我们带来收入，也能够让我去有更多不同行业的知识的获取和观察的视角……"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "AI 原生产品/智能体构思（C 端沟通顾问、异议处理智能体）",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+                    "line_start": 33,
+                    "line_end": 34
+                  },
+                  "quote_lines": [
+                    "……丸子那应该就是叫做异议处理的智能体……我这边是想做一个叫做……AI 加持的一个通讯录和沟通的顾问这样的一个产品。"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "软件工程师思维与 AI 编程（数字员工）",
+              "evidence": [
+                {
+                  "source_ref": {
+                    "path": "d:\\AI_Projects\\dialouge\\探索流202512团子丸子_原文.txt",
+                    "line_start": 46,
+                    "line_end": 47
+                  },
+                  "quote_lines": [
+                    "第三个是在从一个软件工程师的角度就是来去思考问题……接触了 AI 编程之后发现通过编程能够去……打造这种数字的员工会成为可能……"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "skill_threads": [
+        {
+          "thread_id": "tuan-thread-structuring-language",
+          "title": "架构化表达：关键词—拆解—复盘—方法论化",
+          "evidence": [
+            {
+              "memory_ref_ids": [
+                "cmv2-202309-0006",
+                "cmv2-202407-0003",
+                "cmv2-202512-0005"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
